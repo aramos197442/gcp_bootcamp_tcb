@@ -1,0 +1,9 @@
+# Ignore todos os jpg
+*.jpg
+
+# todos os pdf e doc
+*.pdf
+*.doc
+
+# todos os json
+*.json
