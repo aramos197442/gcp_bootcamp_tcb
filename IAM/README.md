@@ -9,7 +9,7 @@ No diretório você encontra os seguintes scripts Python usando a SDK do GCP:
 
 ### `lista_storage.py`
 
-Com a variável de memória GOOGLE_APPLICATION_CREDENTIALS setada para o arquivo JSON do projeto alvo, apresenta os Buckets contidos no projeto. 
+Com a variável de memória GOOGLE_APPLICATION_CREDENTIALS setada para o arquivo JSON com as chaves de acesso do projeto alvo, apresenta os Buckets contidos no projeto. 
 
 ### `lista_instances_1.1.py`
 
