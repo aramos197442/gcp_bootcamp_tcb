@@ -4,6 +4,7 @@
 # todos os pdf e doc
 *.pdf
 *.doc
+*.docx
 
 # todos os json
 *.json

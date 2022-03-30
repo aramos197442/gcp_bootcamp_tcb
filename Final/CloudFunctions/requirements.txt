@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+
+sendgrid
+flask
+flask-cors
+requests
